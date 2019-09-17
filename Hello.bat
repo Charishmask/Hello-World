@@ -1,2 +1,2 @@
 Hello world %date% : %time%
-echo "I'm in defect"
+echo "I'm in master"
